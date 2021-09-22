@@ -3,7 +3,7 @@ module.exports = {
   DefaultPrefix: ".", //Default prefix, Server Admins can change the prefix
   Port: 3000, //Which port website gonna be hosted
   SupportServer: "https://dsc.gg/patukaran", //Support Server Link
-  Token: "ODkwMDkyMDE5MDg5ODAxMjQ2.YUqwyg.iHozQshbyetQYQ41drrPbZ1UgyM" || process.env.Token, //Discord Bot Token
+  Token: "ODkwMDkyMDE5MDg5ODAxMjQ2.YUqwyg.Ib92xWqrHeQWxYSbn_cB4_8-Dp0" || process.env.Token, //Discord Bot Token
   ClientID: "890092019089801246", //Discord Client ID
   ClientSecret: "DeRu8Pj-nxZtI4kExOv2SqMyDYupFABM", //Discord Client Secret
   Scopes: ["identify", "guilds", "applications.commands"], //Discord OAuth2 Scopes
